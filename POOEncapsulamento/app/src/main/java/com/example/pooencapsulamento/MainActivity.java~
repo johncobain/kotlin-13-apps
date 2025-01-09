@@ -36,8 +36,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void iniciarComponentesDoLayout() {
-        txtTituloLivro = findViewById(R.id.txtTituloLivro);
         txtAutor = findViewById(R.id.txtAutor);
+        txtTituloLivro = findViewById(R.id.txtTituloLivro);
         txtEditora = findViewById(R.id.txtEditora);
         txtPagina = findViewById(R.id.txtPagina);
         txtLocalizacao = findViewById(R.id.txtLocalizacao);
