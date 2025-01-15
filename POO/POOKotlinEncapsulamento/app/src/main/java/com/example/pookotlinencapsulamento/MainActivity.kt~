@@ -45,7 +45,7 @@ class MainActivity : AppCompatActivity() {
             "Maddo",
             "Mundial POO",
             "L1L1",
-            145
+            140
         )
 
         val titulo = livro.titulo
