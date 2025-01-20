@@ -1,0 +1,11 @@
+fun main(){
+    val mensagem = "Ola, programacao Kotlin!"
+    var outraMensagem = "Ola, programacao Kotlin!"
+
+    println(outraMensagem)
+    println("Mensagem: $mensagem")
+
+    outraMensagem = "Olá, programadores"
+
+    println(outraMensagem)
+}
